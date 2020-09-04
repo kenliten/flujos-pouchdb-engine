@@ -1,0 +1,26 @@
+{
+  "name": "flujos-pouchdb-engine",
+  "version": "1.0.0",
+  "description": "The PouchDB engine for the Flujos library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenliten/flujos-pouchdb-engine.git"
+  },
+  "keywords": [
+    "flujos",
+    "pouchdb",
+    "dbengine",
+    "database",
+    "engine"
+  ],
+  "author": "kenliten",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/kenliten/flujos-pouchdb-engine/issues"
+  },
+  "homepage": "https://github.com/kenliten/flujos-pouchdb-engine#readme",
+  "dependencies": {
+    "pouchdb": "^7.2.2"
+  }
+}
